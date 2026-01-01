@@ -12,6 +12,7 @@ const modulesConfig = [
       { name: "Amazon OOS Report", url: "https://oos-amazon.streamlit.app/" },
       { name: "Amazon QWTT Stock", url: "https://amazonqwtt-stock.streamlit.app/" },
       { name: "Amazon OSS-Daywise",url: "https://oos-amazon-daywise.streamlit.app/"},
+      { name: "Amazon OOS New Report",url: "https://amazon-oos-new.streamlit.app/"},
 
       // PO & Working
       { name: "Amazon PO Working", url: "https://amazon-poworking.streamlit.app/" },
