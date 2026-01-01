@@ -41,6 +41,7 @@ const modulesConfig = [
       { name: "Flipkart OOS Report", url: "https://oos-flipkart.streamlit.app/" },
       { name: "Flipkart QWTT Stock", url: "https://flipkartqwtt-stock.streamlit.app/" },
       { name: "Flipkart Sales vs Inventory vs Return", url: "https://flipkartstockvsinventoryvsreturn.streamlit.app/" },
+      { name: "Flipkart OOS New Report", url: "https://flipkart-oos-new.streamlit.app/"},
     ],
   },
 
