@@ -22,7 +22,7 @@ const modulesConfig = [
       { name: "Only Refund Cross Check Report", url: "https://return-refund-report.streamlit.app/" },
       { name: "Return Report", url: "https://amazonreturnreportanalyzer.streamlit.app/" },
       { name: "Replacement Without Reimbursement", url: "https://replacement-without-reimbursement-report.streamlit.app/" },
-      { name: "Stock vs Inventory vs Return", url: "https://stockvsinventory-return.streamlit.app/" },
+      // { name: "Stock vs Inventory vs Return", url: "https://stockvsinventory-return.streamlit.app/" },
 
       // Support
       { name: "Amazon Support – NCEMI", url: "https://amazon-support-ncemi.streamlit.app/" },
@@ -41,8 +41,9 @@ const modulesConfig = [
       { name: "Flipkart RIS", url: "https://flipkart-ris.streamlit.app/" },
       { name: "Flipkart OOS Report", url: "https://oos-flipkart.streamlit.app/" },
       { name: "Flipkart QWTT Stock", url: "https://flipkartqwtt-stock.streamlit.app/" },
-      { name: "Flipkart Sales vs Inventory vs Return", url: "https://flipkartstockvsinventoryvsreturn.streamlit.app/" },
+      // { name: "Flipkart Sales vs Inventory vs Return", url: "https://flipkartstockvsinventoryvsreturn.streamlit.app/" },
       { name: "Flipkart OOS New Report", url: "https://flipkart-oos-new.streamlit.app/"},
+      { name: "Flipkart RIS New Report", url: "https://flipkart-ris-new.streamlit.app/"},
     ],
   },
 
