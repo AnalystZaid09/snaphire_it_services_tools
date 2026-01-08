@@ -30,6 +30,7 @@ const modulesConfig = [
       { name: "Return Report", url: "https://amazonreturnreportanalyzer.streamlit.app/" },
       { name: "Replacement Without Reimbursement", url: "https://replacement-without-reimbursement-report.streamlit.app/" },
       // { name: "Stock vs Inventory vs Return", url: "https://stockvsinventory-return.streamlit.app/" },
+      { name: "Sales vs Return Report", url:"https://amazon-salesvsreturn.streamlit.app/"},
 
       // Support
       { name: "Amazon Support – NCEMI", url: "https://amazon-support-ncemi.streamlit.app/" },
