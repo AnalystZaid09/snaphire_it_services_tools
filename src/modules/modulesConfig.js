@@ -8,6 +8,7 @@ const modulesConfig = [
       // { name: "Amazon RIS Report", url: "https://risnewreport-24.streamlit.app/" },
       { name: "Amazon Daily P&L", url: "https://amazondailypl.streamlit.app/" },
       { name: "Amazon RIS New Report", url: "https://amazonr-is-new.streamlit.app/" },
+      { name: "Amazon Monthly P&L", url: "https://amazon-monthlyp-l.streamlit.app/"},
 
       // Stock & OOS
       //{ name: "Amazon OOS Report", url: "https://oos-amazon.streamlit.app/" },
