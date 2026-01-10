@@ -60,6 +60,7 @@ const modulesConfig = [
     path: "/stock-movement",
     links: [
       { name: "Stock Movement Report", url: "https://stockmovement-03.streamlit.app/" },
+      { name: "Stock Movement New Report", url :"https://stock-movement-new.streamlit.app/"},
     ],
   },
 
