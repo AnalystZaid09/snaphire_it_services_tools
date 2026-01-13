@@ -9,6 +9,7 @@ const modulesConfig = [
       { name: "Amazon Daily P&L", url: "https://amazondailypl.streamlit.app/" },
       { name: "Amazon RIS New Report", url: "https://amazonr-is-new.streamlit.app/" },
       { name: "Amazon Monthly P&L", url: "https://amazon-monthlyp-l.streamlit.app/"},
+      { name: "Amazon Daily P&L with Dyson", url:"https://amazondailypl-withdyson.streamlit.app/"},
 
       // Stock & OOS
       //{ name: "Amazon OOS Report", url: "https://oos-amazon.streamlit.app/" },
@@ -59,7 +60,7 @@ const modulesConfig = [
     group: "Stock Movement",
     path: "/stock-movement",
     links: [
-      { name: "Stock Movement Report", url: "https://stockmovement-03.streamlit.app/" },
+      // { name: "Stock Movement Report", url: "https://stockmovement-03.streamlit.app/" },
       { name: "Stock Movement New Report", url :"https://stock-movement-new.streamlit.app/"},
     ],
   },
