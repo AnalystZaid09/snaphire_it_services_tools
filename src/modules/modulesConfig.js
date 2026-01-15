@@ -10,6 +10,7 @@ const modulesConfig = [
       { name: "Amazon RIS New Report", url: "https://amazonr-is-new.streamlit.app/" },
       { name: "Amazon Monthly P&L", url: "https://amazon-monthlyp-l.streamlit.app/"},
       { name: "Amazon Daily P&L with Dyson", url:"https://amazondailypl-withdyson.streamlit.app/"},
+      { name: "Amazon Month and Qtr Wise Sales Report", url:"https://amazonyeartothis.streamlit.app/"},
 
       // Stock & OOS
       //{ name: "Amazon OOS Report", url: "https://oos-amazon.streamlit.app/" },
@@ -53,6 +54,7 @@ const modulesConfig = [
       // { name: "Flipkart Sales vs Inventory vs Return", url: "https://flipkartstockvsinventoryvsreturn.streamlit.app/" },
       { name: "Flipkart OOS New Report", url: "https://flipkart-oos-new.streamlit.app/" },
       { name: "Flipkart RIS New Report", url: "https://flipkart-ris-new.streamlit.app/" },
+      { name: "Flipkart P&L Report", url: "https://flipkart-p-l.streamlit.app/"},
     ],
   },
 
