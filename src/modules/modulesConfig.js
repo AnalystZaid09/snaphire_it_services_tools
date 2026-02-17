@@ -39,6 +39,7 @@ const modulesConfig = [
       { name: "Amazon Support – Dyson", url: "https://amazon-support-dyson.streamlit.app/" },
       { name: "Amazon Support - Tramontina", url: "https://amazon-support-tramontina.streamlit.app/"},
       { name: "Amazon Support - Bergner", url: "https://amazon-support-bergner.streamlit.app/"},
+      { name: "Amazon Support", url: "https://amazonsupport.streamlit.app/"},
 
       // PDF to Excel
       { name: "Amazon PDF to Excel", url: "https://amazon-pdf-excel.streamlit.app/" },
