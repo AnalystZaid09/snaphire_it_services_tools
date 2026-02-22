@@ -40,6 +40,8 @@ const modulesConfig = [
       { name: "Amazon Support - Tramontina", url: "https://amazon-support-tramontina.streamlit.app/"},
       { name: "Amazon Support - Bergner", url: "https://amazon-support-bergner.streamlit.app/"},
       { name: "Amazon Support", url: "https://amazonsupport.streamlit.app/"},
+      { name: "Reverse Logistic - FBA", url: "https://reverselogisticfba.streamlit.app/"},
+      { name: "Reverse Logistic - Seller", url: "https://reverselogisticseller.streamlit.app/"},
 
       // PDF to Excel
       { name: "Amazon PDF to Excel", url: "https://amazon-pdf-excel.streamlit.app/" },
