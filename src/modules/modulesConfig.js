@@ -60,6 +60,7 @@ const modulesConfig = [
       { name: "Flipkart OOS New Report", url: "https://flipkart-oos-new.streamlit.app/" },
       { name: "Flipkart RIS New Report", url: "https://flipkart-ris-new.streamlit.app/" },
       { name: "Flipkart P&L Report", url: "https://flipkart-p-l.streamlit.app/"},
+      {name: "Flipkart Dashboard", url: "https://flipkartpldashboard.streamlit.app/"},
     ],
   },
 
