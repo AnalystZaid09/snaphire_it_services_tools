@@ -21,6 +21,7 @@ const modulesConfig = [
 
       // PO & Working
       { name: "Amazon PO Working", url: "https://amazon-poworking.streamlit.app/" },
+      { name: "Amazon PnL Dashboard", url: "https://amazonpnldashboard.streamlit.app/"},
     ],
   },
 
