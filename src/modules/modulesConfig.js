@@ -17,6 +17,7 @@ const modulesConfig = [
       { name: "Amazon QWTT Stock", url: "https://amazonqwtt-stock.streamlit.app/" },
       { name: "Amazon OSS-Daywise", url: "https://oos-amazon-daywise.streamlit.app/" },
       { name: "Amazon OOS New Report", url: "https://amazon-oos-new.streamlit.app/" },
+      { name: "Amazon OOS Multiple Days", url: "https://amazonoos-multiple-days.streamlit.app/"},
       { name: "Sales vs Return Report", url:"https://amazon-salesvsreturn.streamlit.app/"},
 
       // PO & Working
